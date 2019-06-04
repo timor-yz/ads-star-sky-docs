@@ -1,2 +1,2 @@
-# timor-ads
-广告系统（开发中。。。）
+# ads-star-sky-docs
+星空广告系统文档库
